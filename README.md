@@ -8,7 +8,7 @@ All spaces on the grid are filled without either player getting three in a row, 
 Tic Tac Toe is a simple and fun game that can be played virtually anywhere with just a pen and paper. It is a great way to pass the time and sharpen your strategic thinking skills.
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
-![tictactoe](https://github.com/carminalamit/hotel-reservation-system/assets/95231683/272234a2-1abc-4265-9ad7-261311a69781)
+![s7](https://github.com/carminalamit/hotel-reservation-system/assets/95231683/4c7353fd-520d-44af-a665-0157189e252a)
 
 
 ## How It's Made:
